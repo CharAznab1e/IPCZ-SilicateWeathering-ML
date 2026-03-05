@@ -12,9 +12,9 @@ machine learning algorithms to predict silicate weathering fluxes with enhanced
 robustness and accuracy. The ensemble employs R²-weighted averaging, where
 better-performing models contribute more to the final prediction.
 
-Associated Research: This code accompanies the manuscript "Rainfall amplified
-sea-level control on silicate weathering in the Indo-Pacific Convergence Zone
-during Quaternary glacials" (currently under review in Communications Earth & Environment).
+Associated Research: 
+Yang, Y., Xu, Z., Zhao, D. et al. Rainfall amplified sea-level control on silicate weathering in the Indo-Pacific Convergence Zone during Quaternary glacials. Commun Earth Environ 7, 195 (2026). https://doi.org/10.1038/s43247-026-03219-2
+
 
 == KEY FEATURES ==
 
